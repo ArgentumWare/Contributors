@@ -1,5 +1,5 @@
 # Contributors
-## Permentant Members
+## Permenant Members
 ### Gian Brar
 TITLE: Founder and software dev
 ### Caleb Calaman
